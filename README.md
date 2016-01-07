@@ -13,3 +13,8 @@ Once inside the elevator one must enter two numbers. The first chracter can be a
 To simluate elevator faults one can press '+1' or '-1', '+2' or '-2', etc. The minus sign '-' means there is a fault at the elevator. The plus sign '+' clears the fault.
 
 To stop the simulation one must press the sequence 'ee'.
+
+# Example
+In the following example, the program is initialized with 12 elevators and the command 'u5' is entered. Thus, one of the elevators (in this case elevator 1) goes to floor 5 and opens the door to allow for the passenger(s) to go in.
+
+![alt tag](http://i.imgur.com/n9pMGlB.png)
