@@ -1,5 +1,5 @@
 # Elevator Simulation
-This is a simluation of an elevator system using principles of concurrent systems such as data pools, pipelines and semaphores in C++. This simulation allows for multiple elevators to be created at runtime.
+This is a simulation of an elevator system using principles of concurrent systems such as data pools, pipelines and semaphores in C++. This simulation allows for multiple elevators to be created at runtime.
 
 The rt.cpp and rt.hpp library was provided by the professor. It contains the code for the semaphore, pipeline and datapool implementations.
 
@@ -12,4 +12,4 @@ Once inside the elevator one must enter two numbers. The first chracter can be a
 
 To simluate elevator faults one can press '+1' or '-1', '+2' or '-2', etc. The minus sign '-' means there is a fault at the elevator. The plus sign '+' clears the fault.
 
-To stop the simlulation one must press the sequence 'ee'.
+To stop the simulation one must press the sequence 'ee'.
